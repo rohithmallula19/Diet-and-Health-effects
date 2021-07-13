@@ -1,1 +1,2 @@
-# Diet-and-Health-effects
+Relation between global diets and non-communicable disease rates. 
+People say "you are what you eat." In this project, I examine how conventional wisdom stands up to data: does our diet determine our health outcomes? To characterize world diets, I use data on consumption of over 100 food items on a per country basis, from the United Nations Food and Agriculture Organization (FAO). For health outcomes, I use non-communicable disease data from the World Health Organization (WHO). After exploring and cleaning the data, I use statistical methods to examine whether world diets can explain variation in mortality rates across countries, and which food items are linked to disease.
